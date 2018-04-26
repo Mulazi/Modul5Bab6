@@ -20,7 +20,7 @@ public class Modul5_klmpk54 {
         footer a = new footer();
         Student one =  new Student();
         System.out.println("\n");
-        Student two = new Student("Yusuf Valent", "21120117130046", "SMA Semarang");
+        Student two = new Student("CUCUCUCUPIDA", "21120117130046", "SMA Semarang");
         System.out.println(two.intro());
         System.out.println(two.tellGPA(4));//Pilihan Prodi
         System.out.println(two.tellAddress());
